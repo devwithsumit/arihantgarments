@@ -14,3 +14,4 @@ function hovering(){
 }
 hovering();
 
+const menuitems = document.getElementById('menu-items')
